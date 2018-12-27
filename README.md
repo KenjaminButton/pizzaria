@@ -2,9 +2,10 @@
 
 ##### Project Spec Sheet:
 
-[] Start a new project called pizzeria with an app called pizzas.
-[] Define a model Pizza with a field called name, which will hold name values
-such as Hawaiian and Meat Lovers. Define a model called Topping with fields
+[x] Start a new project called pizzeria with an app called pizzas.
+[x] Define a model Pizza with a field called name, which will hold name values
+such as Hawaiian and Meat Lovers.
+[] Define a model called Topping with fields
 called pizza and name. The pizza field should be a foreign key to Pizza,
 and name should be able to hold values such as pineapple, Canadian bacon,
 and sausage. Register both models with the admin site, and use the site to
