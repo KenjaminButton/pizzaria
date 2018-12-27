@@ -9,5 +9,11 @@
 
 ##### Installing Django
 1. While the virtual environment is active (11_env), install Django with
-`pip install Django`
+    `pip install Django`
+
+##### Creating a Project in Django
+1. In the activated virtual environment (11_env), type the following command:
+```django-admin.py startproject pizzeria .``` Don't forget to add
+the ```.``` at the end of the command! 
 2. 
+3. 
